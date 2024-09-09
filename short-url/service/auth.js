@@ -1,4 +1,4 @@
-// Diary
+// Keeping data in Diary or storing State
 const sessionIdToUserMap = new Map();
 
 function setUser(id, user) {
